@@ -1,4 +1,3 @@
-
 "use client";
 
 import { useMemo, useState } from "react";
@@ -40,12 +39,10 @@ function filterRange(data: TrendPoint[], range: RangeId) {
   const newest = data.at(-1)?.date;
   if (!newest) return data;
 
-  const newestDate =
-    newest.length === 7 ? `${newest}-01` : newest;
+  const newestDate = newest.length === 7 ? `${newest}-01` : newest;
 
   const cutoff = new Date(`${newestDate}T00:00:00Z`);
-  const days =
-    range === "90d" ? 90 : range === "1y" ? 365 : 365 * 5;
+  const days = range === "90d" ? 90 : range === "1y" ? 365 : 365 * 5;
 
   cutoff.setUTCDate(cutoff.getUTCDate() - days);
 
@@ -71,8 +68,7 @@ function formatNumber(value: number, precision: number) {
 }
 
 function formatAxisDate(value: string) {
-  const dateValue =
-    value.length === 7 ? `${value}-01` : value;
+  const dateValue = value.length === 7 ? `${value}-01` : value;
 
   const date = new Date(`${dateValue}T00:00:00Z`);
 
@@ -130,9 +126,7 @@ export function TrendChart({
   const [range, setRange] = useState<RangeId>("all");
 
   // Tracks which mandi is currently being hovered.
-  const [hoveredSeries, setHoveredSeries] = useState<string | null>(
-    null,
-  );
+  const [hoveredSeries, setHoveredSeries] = useState<string | null>(null);
 
   const sortedData = useMemo(
     () => [...data].sort((left, right) => left.date.localeCompare(right.date)),
@@ -156,9 +150,7 @@ export function TrendChart({
 
   // Only render the hovered mandi.
   // When nothing is hovered, display every mandi.
-  const visibleSeries = series.some(
-    (item) => item.key === hoveredSeries,
-  )
+  const visibleSeries = series.some((item) => item.key === hoveredSeries)
     ? series.filter((item) => item.key === hoveredSeries)
     : series;
 
@@ -190,10 +182,7 @@ export function TrendChart({
       )}
 
       {/* Graph */}
-      <div
-        role="group"
-        aria-label={`Market trends in ${unit}`}
-      >
+      <div>
         <div className="rounded-2xl border border-[#D5BC7B]/15 bg-[#111B16]/45 p-4">
           <ResponsiveContainer width="100%" height={height}>
             <LineChart
@@ -214,9 +203,7 @@ export function TrendChart({
               <XAxis
                 dataKey="date"
                 minTickGap={35}
-                tickFormatter={(value: string) =>
-                  formatAxisDate(value)
-                }
+                tickFormatter={(value: string) => formatAxisDate(value)}
                 tick={{
                   fill: "#E8E3D7",
                   fontSize: 11,
@@ -243,9 +230,7 @@ export function TrendChart({
               />
 
               <Tooltip
-                labelFormatter={(value) =>
-                  formatTooltipDate(value)
-                }
+                labelFormatter={(value) => formatTooltipDate(value)}
                 contentStyle={{
                   backgroundColor: "#1B2820",
                   border: "1px solid rgba(213,188,123,.4)",
@@ -273,9 +258,7 @@ export function TrendChart({
                   stroke={item.color}
                   strokeWidth={3}
                   dot={
-                    filteredData.length < 30
-                      ? { r: 4, strokeWidth: 1 }
-                      : false
+                    filteredData.length < 30 ? { r: 4, strokeWidth: 1 } : false
                   }
                   activeDot={{
                     r: 6,
@@ -306,33 +289,22 @@ export function TrendChart({
         <div className="flex flex-wrap gap-2">
           {series.map((item) => {
             const isActive = hoveredSeries === item.key;
-            const isDimmed =
-              hoveredSeries !== null && !isActive;
+            const isDimmed = hoveredSeries !== null && !isActive;
 
             return (
               <button
                 key={item.key}
                 type="button"
-                onMouseEnter={() =>
-                  setHoveredSeries(item.key)
-                }
-                onMouseLeave={() =>
-                  setHoveredSeries(null)
-                }
-                onFocus={() =>
-                  setHoveredSeries(item.key)
-                }
-                onBlur={() =>
-                  setHoveredSeries(null)
-                }
+                onMouseEnter={() => setHoveredSeries(item.key)}
+                onMouseLeave={() => setHoveredSeries(null)}
+                onFocus={() => setHoveredSeries(item.key)}
+                onBlur={() => setHoveredSeries(null)}
                 aria-label={`Show only ${item.label}`}
                 className={`inline-flex items-center gap-2 rounded-lg border px-2.5 py-2 text-left text-xs transition-all duration-150 ${
                   isActive
                     ? "border-[#D5BC7B]/60 bg-[#D5BC7B]/15 text-[#F6F1E5]"
                     : "border-[#D5BC7B]/10 bg-[#111B16]/50 text-[#E8E3D7]/75 hover:border-[#D5BC7B]/40 hover:bg-[#D5BC7B]/10"
-                } ${
-                  isDimmed ? "opacity-35" : "opacity-100"
-                }`}
+                } ${isDimmed ? "opacity-35" : "opacity-100"}`}
               >
                 <span
                   className="h-2.5 w-2.5 shrink-0 rounded-full"

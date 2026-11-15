@@ -185,9 +185,7 @@ export function Notice({
       }`}
     >
       <h3 className="text-sm font-semibold text-[#F6F1E5]">{title}</h3>
-      <div className="mt-1 text-sm leading-6 text-[#E8E3D7]/80">
-        {children}
-      </div>
+      <div className="mt-1 text-sm leading-6 text-[#E8E3D7]/80">{children}</div>
     </aside>
   );
 }

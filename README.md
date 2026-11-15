@@ -30,14 +30,14 @@ individual farm.
 
 ## Application pages
 
-| Route | Purpose |
-| --- | --- |
-| `/` | Dashboard with sample location and clock, field indicators, published rotation examples, market summaries, recent climate observations, crop-stress indicators, and the complete backend showcase. |
-| `/rotation` | Backend rotation and practice results; a local comparison tool for published Punjab rotation references; crop-water ranges; soil profile and nitrogen-fixation context. |
-| `/failure` | Backend crop-stress result with local moisture, temperature, vegetation, and regional water-storage evidence and time-series charts. |
-| `/vulnerability` | Backend vulnerability and climate results with satellite, weather, soil, terrain, and groundwater context. |
-| `/profitability` | Backend profitability result, market prices and arrivals, district crop-production history, public benchmarks, and a local profit-scenario calculator. |
-| Any unmatched path | A custom “Coordinates Out of Bounds” 404 page with a link back to the dashboard. |
+| Route              | Purpose                                                                                                                                                                                            |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/`                | Dashboard with sample location and clock, field indicators, published rotation examples, market summaries, recent climate observations, crop-stress indicators, and the complete backend showcase. |
+| `/rotation`        | Backend rotation and practice results; a local comparison tool for published Punjab rotation references; crop-water ranges; soil profile and nitrogen-fixation context.                            |
+| `/failure`         | Backend crop-stress result with local moisture, temperature, vegetation, and regional water-storage evidence and time-series charts.                                                               |
+| `/vulnerability`   | Backend vulnerability and climate results with satellite, weather, soil, terrain, and groundwater context.                                                                                         |
+| `/profitability`   | Backend profitability result, market prices and arrivals, district crop-production history, public benchmarks, and a local profit-scenario calculator.                                             |
+| Any unmatched path | A custom “Coordinates Out of Bounds” 404 page with a link back to the dashboard.                                                                                                                   |
 
 The shared responsive navigation is defined in
 [`src/components/navbar/index.tsx`](./src/components/navbar/index.tsx). The
@@ -131,27 +131,27 @@ The showcase endpoint returns the analysis objects directly, grouped under
 `profitability`. Their TypeScript shapes are defined in
 [`src/lib/types.ts`](./src/lib/types.ts):
 
-| Result | Data included |
-| --- | --- |
-| Rotation | Recommended crop sequences, an overall score and soil/water/climate/soil-improvement/diversity/profitability components, evaluated sequence count, method, and limitations. |
-| Practices | Crop, detected problems, and recommendations with score, reason, benefit, and cost level. |
-| Failure | Crop, stress score, risk level, contributing factors, heat/rainfall-deficit/soil-moisture/vegetation components, prediction type, and limitations. |
-| Vulnerability | Crop, vulnerability score and level, exposure/sensitivity/adaptive-capacity components, and weaknesses. |
-| Climate | Average rainfall, temperature, soil moisture, and NDVI; rainfall variability and pattern; changes and directions; anomalies, observation count, and limitations. |
-| Profitability | Crop, area, expected yield, market price, revenue, total cost, estimated profit, profit per hectare, yield adjustment, market position, and limitations. |
+| Result        | Data included                                                                                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rotation      | Recommended crop sequences, an overall score and soil/water/climate/soil-improvement/diversity/profitability components, evaluated sequence count, method, and limitations. |
+| Practices     | Crop, detected problems, and recommendations with score, reason, benefit, and cost level.                                                                                   |
+| Failure       | Crop, stress score, risk level, contributing factors, heat/rainfall-deficit/soil-moisture/vegetation components, prediction type, and limitations.                          |
+| Vulnerability | Crop, vulnerability score and level, exposure/sensitivity/adaptive-capacity components, and weaknesses.                                                                     |
+| Climate       | Average rainfall, temperature, soil moisture, and NDVI; rainfall variability and pattern; changes and directions; anomalies, observation count, and limitations.            |
+| Profitability | Crop, area, expected yield, market price, revenue, total cost, estimated profit, profit per hectare, yield adjustment, market position, and limitations.                    |
 
 The client also defines typed helpers for these GET endpoints:
 
-| Helper | Backend path |
-| --- | --- |
-| `getAIShowcase` | `/api/v1/ai/showcase` |
-| `getCrops` | `/api/v1/db/crops?limit=1000` |
+| Helper                      | Backend path                                        |
+| --------------------------- | --------------------------------------------------- |
+| `getAIShowcase`             | `/api/v1/ai/showcase`                               |
+| `getCrops`                  | `/api/v1/db/crops?limit=1000`                       |
 | `getRotationRecommendation` | `/api/v1/ai/rotation/recommend?sequence_length={n}` |
-| `getPracticeAnalysis` | `/api/v1/ai/practices/{crop_name}` |
-| `getFailureAnalysis` | `/api/v1/ai/failure/{crop_name}` |
-| `getVulnerabilityAnalysis` | `/api/v1/ai/vulnerability/{crop_name}` |
-| `getClimateAnalysis` | `/api/v1/ai/climate` |
-| `getProfitabilityAnalysis` | `/api/v1/ai/profitability/{crop_name}` |
+| `getPracticeAnalysis`       | `/api/v1/ai/practices/{crop_name}`                  |
+| `getFailureAnalysis`        | `/api/v1/ai/failure/{crop_name}`                    |
+| `getVulnerabilityAnalysis`  | `/api/v1/ai/vulnerability/{crop_name}`              |
+| `getClimateAnalysis`        | `/api/v1/ai/climate`                                |
+| `getProfitabilityAnalysis`  | `/api/v1/ai/profitability/{crop_name}`              |
 
 The current pages use `getAIShowcase` and select their respective results; the
 individual helpers are available for pages that need to request a single
@@ -229,16 +229,16 @@ is needed. The hosted backend key must be available to the server process.
 
 ## Common commands
 
-| Command | What it does |
-| --- | --- |
-| `pnpm dev` | Starts the Next.js development server. |
-| `pnpm build` | Creates a production build. |
-| `pnpm start` | Serves the production build. |
-| `pnpm format` | Formats files with Biome. |
-| `pnpm exec biome check .` | Runs Biome formatting, lint, and assist checks. |
-| `pnpm typecheck` | Generates Next.js route types and runs TypeScript without emitting files. |
-| `pnpm lint` | Formats the project, runs Biome checks, then runs the typecheck script. |
-| `pnpm doctor` | Runs the React Doctor diagnostic. |
+| Command                   | What it does                                                              |
+| ------------------------- | ------------------------------------------------------------------------- |
+| `pnpm dev`                | Starts the Next.js development server.                                    |
+| `pnpm build`              | Creates a production build.                                               |
+| `pnpm start`              | Serves the production build.                                              |
+| `pnpm format`             | Formats files with Biome.                                                 |
+| `pnpm exec biome check .` | Runs Biome formatting, lint, and assist checks.                           |
+| `pnpm typecheck`          | Generates Next.js route types and runs TypeScript without emitting files. |
+| `pnpm lint`               | Formats the project, runs Biome checks, then runs the typecheck script.   |
+| `pnpm doctor`             | Runs the React Doctor diagnostic.                                         |
 
 There is no dedicated test command in `package.json` at present. The main CI
 workflow runs dependency installation, Biome checks, TypeScript checking, and a

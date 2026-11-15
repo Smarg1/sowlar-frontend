@@ -1,11 +1,10 @@
 import { Avatar, AvatarFallback } from "@component/ui/avatar";
-import type { TabId } from "@lib/types";
 import { ChevronDown, Menu } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
 const NAV_ITEMS: {
-  id: TabId;
+  id: string;
   label: string;
 }[] = [
   { id: "rotation", label: "Crop Rotation" },
