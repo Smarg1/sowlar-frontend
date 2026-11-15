@@ -10,15 +10,16 @@ import type {
   RotationResult,
   VulnerabilityResult,
 } from "@lib/types";
-import { cacheLife } from "next/cache";
 
 function getApiBaseUrl() {
   const configuredUrl = process.env.API_URL?.trim();
+
   if (!configuredUrl) {
     throw new Error("Set API_URL to the hosted SOWLAR API origin.");
   }
 
   let url: URL;
+
   try {
     url = new URL(configuredUrl);
   } catch {
@@ -36,25 +37,26 @@ function getApiBaseUrl() {
   }
 
   url.pathname = url.pathname.replace(/\/+$/, "").replace(/\/api\/v1$/, "");
+
   return url.toString().replace(/\/+$/, "");
 }
 
 async function fetchApi<T>(endpoint: string): Promise<T> {
-  "use cache";
-  cacheLife("minutes");
-
   const apiKey = process.env.API_KEY;
+
   if (!apiKey) {
     throw new Error("Set API_KEY to the key configured on the SOWLAR API.");
   }
 
   let response: Response;
+
   try {
     response = await fetch(`${getApiBaseUrl()}/api/v1${endpoint}`, {
       headers: {
         Accept: "application/json",
         "X-API-Key": apiKey,
       },
+      cache: "no-store",
       signal: AbortSignal.timeout(90_000),
     });
   } catch (error) {
@@ -66,6 +68,7 @@ async function fetchApi<T>(endpoint: string): Promise<T> {
         "The SOWLAR API request timed out. The hosted service may be starting; reload the page shortly.",
       );
     }
+
     throw new Error(
       "Cannot connect to the SOWLAR API. Check API_URL and confirm the hosted service is online.",
       { cause: error },
@@ -74,8 +77,10 @@ async function fetchApi<T>(endpoint: string): Promise<T> {
 
   if (!response.ok) {
     let detail = response.statusText;
+
     try {
       const body: unknown = await response.json();
+
       if (
         typeof body === "object" &&
         body !== null &&
@@ -87,6 +92,7 @@ async function fetchApi<T>(endpoint: string): Promise<T> {
     } catch {
       // Keep the HTTP status when the backend returns a non-JSON error page.
     }
+
     throw new Error(`SOWLAR API returned ${response.status}: ${detail}`);
   }
 
@@ -107,6 +113,7 @@ export function getRotationRecommendation(sequenceLength = 3) {
   const query = new URLSearchParams({
     sequence_length: String(sequenceLength),
   });
+
   return fetchApi<RotationResult>(`/ai/rotation/recommend?${query.toString()}`);
 }
 
