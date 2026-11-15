@@ -1,0 +1,79 @@
+﻿station_name,latitude,longitude,tehsil,block,village,distance_to_test_coordinate_km,agency,district,state,source,nearest_station_rank_from_test_coordinate
+Kang Sahib Rai-Pz,31.18333333,75.43611111,NAKODAR,NAKODAR,Kang Sahib Rai,6.051,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,1
+Punjab JALANDHAR JALANDHAR Talwandi Madho D,31.19850000,75.31130000,-,-,-,8.037014,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,2
+Punjab JALANDHAR JALANDHAR Talwandi Madho S,31.19850000,75.31130000,-,-,-,8.037014,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,3
+Dhanda-Pz,31.16250000,75.34305556,SHAHKOT,LOHIAN,Dhanda,8.041809,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,4
+Talwani Madho-Pz,31.20416667,75.30833333,SHAHKOT,LOHIAN,Talwani Shabho,8.128658,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,5
+Lallian kalan D,31.26250000,75.49166667,JALANDHAR - II,JALANDHAR-EAST,Lallian,10.559276,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,6
+Lallian kalan Pz-M,31.26250000,75.49166667,JALANDHAR - II,JALANDHAR-EAST,Lallian,10.559276,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,7
+Lallian kalan Pz-S,31.26250000,75.49166667,JALANDHAR - II,JALANDHAR-EAST,Lallian,10.559276,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,8
+Malsian-D Pz,31.12500000,75.36111111,SHAHKOT,SHAHKOT,Malsian,11.151959,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,9
+Malsian-M Pz,31.12500000,75.36111111,SHAHKOT,SHAHKOT,Malsian,11.151959,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,10
+Billi Chahanni  M,31.11129900,75.38489500,-,-,-,12.315363,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,11
+Billi Chaharmi D,31.11129900,75.38489500,-,-,-,12.315363,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,12
+Billi Chaharmi M,31.11129900,75.38489500,-,-,-,12.315363,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,13
+Billi Chaharmi S,31.11129900,75.38489500,-,-,-,12.315363,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,14
+Billi Chahrami-Pz,31.10833333,75.38472222,SHAHKOT,SHAHKOT,Billi Chahrami,12.645541,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,15
+Nasirpur-Pz,31.10833333,75.38472222,SHAHKOT,LOHIAN,Nasirpur,12.645541,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,16
+Kalyanpur-Pz,31.26666667,75.51666667,JALANDHAR - I,JALANDHAR-WEST,Kalyanpur,12.919616,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,17
+Nakodar 1(d),31.13333333,75.48500000,NAKODAR,NAKODAR,Nakodar 1(d),13.288224,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,18
+Nakodar 3(s),31.13333333,75.48500000,NAKODAR,NAKODAR,Nakodar 3(s),13.288224,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,19
+Gohiran,31.23333333,75.53333333,JALANDHAR - II,JALANDHAR-EAST,Gohiran,13.569401,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,20
+Udhopur,31.19444444,75.53333333,NAKODAR,NAKODAR,Udhopur,13.853773,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,21
+Gillian-Pz,31.31666667,75.48888889,JALANDHAR - I,JALANDHAR-WEST,Gillian,14.039568,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,22
+Mahmuwal-Pz,31.13333333,75.27222222,SHAHKOT,LOHIAN,Mahmuwal,15.008535,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,23
+Kakar Kalan-Pz,31.08194444,75.37916667,SHAHKOT,LOHIAN,Kakar Kalan,15.607009,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,24
+Shahkot(d),31.07944444,75.33027778,SHAHKOT,SHAHKOT,Shahkot(d),16.871669,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,25
+Shahkot(s),31.07944444,75.33027778,SHAHKOT,SHAHKOT,Shahkot(s),16.871669,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,26
+Chania-Pz,31.17222222,75.57361111,NAKODAR,NAKODAR,Chania,18.20435,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,27
+Sarih Pz,31.12916667,75.55000000,PHILLAUR,NURMAHAL,Sarih Pz,18.28859,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,28
+Sarih Pz-M,31.12916667,75.55000000,PHILLAUR,NURMAHAL,Sarih Pz,18.28859,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,29
+Janian-Pz,31.09444444,75.26388889,SHAHKOT,SHAHKOT,Janian,18.649125,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,30
+Hardo Sheikh-Pz,31.12222222,75.56111111,PHILLAUR,NURMAHAL,Hardo Sheikh,19.59754,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,31
+Fateh Jalal-Pz,31.39722222,75.48472222,JALANDHAR - II,JALANDHAR-EAST,Fateh Jalal,21.420134,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,32
+Jalandhar 1(d),31.32500000,75.58888889,JALANDHAR - II,JALANDHAR-EAST,Jalandhar 1(d),22.004281,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,33
+Jalandhar 2(m),31.32500000,75.58888889,JALANDHAR - II,JALANDHAR-EAST,Jalandhar 2(m),22.004281,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,34
+Jalandhar 3(vs),31.32500000,75.58888889,JALANDHAR - II,JALANDHAR-EAST,Jalandhar 3(s),22.004281,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,35
+Gehlan-pz,31.02055556,75.38333333,SHAHKOT,SHAHKOT,Gehlan,22.403413,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,36
+Jandiala-Pz,31.15833333,75.61666667,PHILLAUR,RURKA KALAN,Jandiala,22.577803,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,37
+Adarman-Pz,31.02083333,75.46388889,NAKODAR,NAKODAR,Adarman,23.404577,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,38
+Kot Wadal Khan-Pz,31.05416667,75.55472222,PHILLAUR,NURMAHAL,Kot Badal,24.29013,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,39
+Kartarpur 1(d),31.43611111,75.49861111,JALANDHAR - I,JALANDHAR-WEST,Kartarpur 1(d),25.908228,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,40
+Kartarpur 2(s),31.43611111,75.49861111,JALANDHAR - I,JALANDHAR-WEST,Kartarpur 2(s),25.908228,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,41
+Nussi-Pz,31.40000000,75.57500000,JALANDHAR - I,JALANDHAR-WEST,Nussi,26.397497,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,42
+Nangal Shaman,31.32500000,75.64166667,JALANDHAR - I,JALANDHAR-WEST,Nangal Shaman,26.41549,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,43
+Jandu Singha-Pz,31.37916667,75.65277778,JALANDHAR - I,BHOGPUR,Jandu Singha,30.383398,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,44
+Rurka Kalan- Pz,31.12500000,75.70000000,PHILLAUR,RURKA KALAN,Rurkakallan,31.288727,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,45
+Goraya-Pz,31.12222200,75.70000000,PHILLAUR,-,-,31.396865,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,46
+Talwan-Pz,31.01111111,75.61250000,PHILLAUR,NURMAHAL,Talwan,31.513315,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,47
+Rahimpur-Pz,31.46250000,75.56805556,JALANDHAR - I,JALANDHAR-WEST,Rahimpur,31.584351,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,48
+Bilga-Pz,31.04861111,75.65555556,PHILLAUR,NURMAHAL,Bilga,31.689002,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,49
+Allawalpur,31.42916667,75.66388889,JALANDHAR - II,ADAMPUR,Allawalpur,34.665655,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,50
+Mehsampur-Pz,31.08194444,75.71805556,PHILLAUR,RURKA KALAN,Mehsampur,34.776476,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,51
+Thanda-Pz,31.11666667,75.74861111,PHILLAUR,RURKA KALAN,Thanda,35.958383,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,52
+goraya,31.12222222,75.75694444,PHILLAUR,RURKA KALAN,Goraya,36.515747,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,53
+Goraya- D Pz,31.12222222,75.75694444,PHILLAUR,RURKA KALAN,Goraya,36.515747,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,54
+Adampur 1(d),31.42222222,75.70833333,JALANDHAR - II,ADAMPUR,Adampur 1(d),37.460031,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,55
+Adampur 2(m),31.42222222,75.70833333,JALANDHAR - II,ADAMPUR,Adampur 2(m),37.460031,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,56
+Adampur 3(s),31.42222222,75.70833333,JALANDHAR - II,ADAMPUR,Adampur 3(s),37.460031,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,57
+Dhirowal-Pz,31.45416667,75.68750000,JALANDHAR - I,BHOGPUR,Dhirowal,38.190787,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,58
+Kurla-Pz,31.52916667,75.58888889,JALANDHAR - I,BHOGPUR,Kurla,38.977506,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,59
+Skarar Pur-Pz,31.51111111,75.63194444,JALANDHAR - I,BHOGPUR,Skarar Pur,39.449817,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,60
+Akalpur-Pz,31.05416667,75.76111111,PHILLAUR,PHILLAUR,Akalpur,39.83817,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,61
+Kala-Pz,31.15416667,75.82500000,PHILLAUR,PHILLAUR,Kala,41.942316,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,62
+Bhogpur-Pz,31.55000000,75.63333333,JALANDHAR - I,BHOGPUR,Bhogpur,43.115184,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,63
+Phillaur 1(d),31.02916667,75.79305556,PHILLAUR,PHILLAUR,Phillaur 1(d),43.842766,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,64
+Phillaur 2(s),31.02916667,75.79305556,PHILLAUR,PHILLAUR,Phillaur 2(s),43.842766,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,65
+Jalbhe,31.47083333,75.76250000,JALANDHAR - II,ADAMPUR,Jalbhe,44.822168,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,66
+Samarahi-Pz,31.09722222,75.85694444,PHILLAUR,PHILLAUR,Samarahi,46.430864,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,67
+Pathial-Pz,31.59722222,75.62916667,JALANDHAR - I,BHOGPUR,Pathial,47.448134,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,68
+Kharal Kalan Pz-M,31.60277778,75.65000000,JALANDHAR - I,BHOGPUR,Kheral Kalan,48.953235,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,69
+Kharal Kalan Pz-S,31.60277778,75.65000000,JALANDHAR - I,BHOGPUR,Kheral Kalan,48.953235,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,70
+Kheral Kalan D,31.60333333,75.65000000,JALANDHAR - I,BHOGPUR,Kheral Kalan,49.006649,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,71
+Turan D,31.10564100,75.89289500,-,-,-,49.451045,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,72
+Turan M,31.10564100,75.89289500,-,-,-,49.451045,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,73
+Turan S,31.10564100,75.89289500,-,-,-,49.451045,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,74
+Sultanpur-Pz,31.06250000,75.88750000,PHILLAUR,PHILLAUR,Sultanpur,50.445424,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,75
+Jandu Singha  M,31.37250000,76.64604700,JALANDHAR - II,-,-,120.393118,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,76
+Jandu Singha S,31.37250000,76.64604700,JALANDHAR - II,-,-,120.393118,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,77
+Jandu Singha  D,31.37250000,76.64618100,JALANDHAR - II,-,-,120.405726,CGWB,JALANDHAR,Punjab,CGWB Punjab quarterly manual groundwater-level observations,78

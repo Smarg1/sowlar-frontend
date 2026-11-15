@@ -1,0 +1,3 @@
+﻿project_name,canal_name,canal_type,basin,river,state,length_km,name_contains_jalandhar,geometry_status
+Bhakra Nangal (includes Bhakra main Line canal and Bist Doab Canal),Jalandhar,Branch Canal,Indus (Up to border),Sutlej,Punjab,68.2406085840364,YES,OMITTED_FROM_SHARE: input GeoJSON had projected coordinate magnitudes and no declared CRS; not safe to interpret as lon/lat
+Bhakra Nangal (includes Bhakra main Line canal and Bist Doab Canal),Jalandhar,Distributary,Indus (Up to border),Sutlej,Punjab,49.7930352854902,YES,OMITTED_FROM_SHARE: input GeoJSON had projected coordinate magnitudes and no declared CRS; not safe to interpret as lon/lat

@@ -1,0 +1,93 @@
+﻿metric,commodity_id,commodity_name,state_id,district_id,market,query_year,query_month,change_over_previous_month_percent,change_over_previous_year_percent,report_title,unit_for_change
+wholesale_price,1,Wheat,28,461,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2026,4,,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar Cantt. APMC,2026,4,,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar City APMC,2026,4,,6.5,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar City(Faintan Ganj) APMC,2026,4,,6.4,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,4,,6.5,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Nakodar APMC,2026,4,,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Nakodar(Sarih) APMC,2026,4,,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Phillaur APMC,2026,4,,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Phillaur(Apra Mandi) APMC,2026,4,,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+wholesale_price,1,Wheat,28,461,Adampur APMC,2026,5,0,,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar City APMC,2026,5,-0,6.5,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar City(Faintan Ganj) APMC,2026,5,0,6.4,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,5,0,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Nakodar APMC,2026,5,0,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Nakodar(Sarih) APMC,2026,5,0,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Phillaur APMC,2026,5,0,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,1,Wheat,28,461,Phillaur(Apra Mandi) APMC,2026,5,0,6.6,"Market-wise Wholesale Prices Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City APMC,2026,5,,-17.6,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – May, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City APMC,2026,6,-20.8,-6.8,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,6,,-5.6,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar APMC,2026,6,,-5.2,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar(Sarih) APMC,2026,6,,-5,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+wholesale_price,4,Maize,28,461,Adampur APMC,2026,7,-0.4,,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City APMC,2026,7,19.9,4.1,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,7,4.2,-8.5,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar APMC,2026,7,-0.1,-3.6,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar(Sarih) APMC,2026,7,-3.1,-7.3,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+wholesale_price,4,Maize,28,461,Shakot (Malsian) APMC,2026,7,-27.8,,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City APMC,2026,8,17.7,3.7,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,8,8.5,-1.9,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar APMC,2026,8,1.7,-0,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar(Sarih) APMC,2026,8,7.5,2.4,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City APMC,2026,9,6.4,6.9,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – September, 2026",percent
+wholesale_price,4,Maize,28,461,Nakodar APMC,2026,9,17.2,28.8,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – September, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Bilga (Talwan ) APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Bilga APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Jalandhar Cantt. APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Jalandhar City APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Jalandhar City(Faintan Ganj) APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Nakodar APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Nakodar(Sarih) APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Shahkot APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,2,Paddy (Common),28,461,Shakot (Malsian) APMC,2026,10,,3,"Market-wise Wholesale Prices Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+wholesale_price,4,Maize,28,461,Jalandhar City APMC,2026,10,3.4,12.2,"Market-wise Wholesale Prices Monthly Analysis for Maize in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2026,4,,-62.14,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar Cantt. APMC,2026,4,,-61.18,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar City APMC,2026,4,,28.75,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar City(Faintan Ganj) APMC,2026,4,,-56.74,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,4,,38,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Nakodar APMC,2026,4,,240.74,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Nakodar(Sarih) APMC,2026,4,,-19.59,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Phillaur APMC,2026,4,,-6.15,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Phillaur(Apra Mandi) APMC,2026,4,,6.28,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – April, 2026",percent
+market_arrivals,1,Wheat,28,461,Adampur APMC,2026,5,-95.41,,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar City APMC,2026,5,-88.87,-7.48,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar City(Faintan Ganj) APMC,2026,5,-80.86,-98.54,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,5,-97.65,-72.63,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Nakodar APMC,2026,5,-98.61,-42.61,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Nakodar(Sarih) APMC,2026,5,-92.03,-28.48,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Phillaur APMC,2026,5,-96.39,-57.43,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,1,Wheat,28,461,Phillaur(Apra Mandi) APMC,2026,5,-95.53,-63.71,"Market-wise Wholesale Arrivals Monthly Analysis for Wheat in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City APMC,2026,5,,-93.51,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – May, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City APMC,2026,6,36855.83,-16.99,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,6,,1.63,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar APMC,2026,6,,-25.78,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar(Sarih) APMC,2026,6,,-43.86,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – June, 2026",percent
+market_arrivals,4,Maize,28,461,Adampur APMC,2026,7,15.03,,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City APMC,2026,7,169.84,-61.22,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,7,177.54,63.87,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar APMC,2026,7,218.79,21.95,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar(Sarih) APMC,2026,7,36.76,12.76,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+market_arrivals,4,Maize,28,461,Shakot (Malsian) APMC,2026,7,-33.45,,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – July, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City APMC,2026,8,-6.17,122.5,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,8,-94.22,-74.03,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar APMC,2026,8,-81.34,-44.58,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar(Sarih) APMC,2026,8,-38.68,-36.06,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – August, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City APMC,2026,9,-84.83,-60.01,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – September, 2026",percent
+market_arrivals,4,Maize,28,461,Nakodar APMC,2026,9,-78.48,-49.89,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – September, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Bilga (Talwan ) APMC,2026,10,,-88.96,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Bilga APMC,2026,10,,-90.23,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2026,10,,186.03,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Jalandhar Cantt. APMC,2026,10,,41.74,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Jalandhar City APMC,2026,10,,37.59,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Jalandhar City(Faintan Ganj) APMC,2026,10,,-87.92,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Jalandhar City(Kartar Pur Dana mandi) APMC,2026,10,,21.71,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Nakodar APMC,2026,10,,-51.85,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Nakodar(Sarih) APMC,2026,10,,54.53,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Shahkot APMC,2026,10,,18.16,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,2,Paddy (Common),28,461,Shakot (Malsian) APMC,2026,10,,89.58,"Market-wise Wholesale Arrivals Monthly Analysis for Paddy(Common) in Jalandhar, Punjab – October, 2026",percent
+market_arrivals,4,Maize,28,461,Jalandhar City APMC,2026,10,136.22,227.32,"Market-wise Wholesale Arrivals Monthly Analysis for Maize in Jalandhar, Punjab – October, 2026",percent

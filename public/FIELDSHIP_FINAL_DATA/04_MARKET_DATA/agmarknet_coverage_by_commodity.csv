@@ -1,0 +1,7 @@
+﻿commodity_name,requested_calls,successful_calls,no_rows_calls,error_calls,unique_price_observations,unique_arrival_observations,market_count_with_any_returned_rows,coverage_note
+Bengal Gram (Whole),20,0,20,0,0,0,0,No rows means the endpoint returned no report rows for that query; it does not establish zero trade or zero arrivals.
+Maize,20,16,4,0,48,48,7,No rows means the endpoint returned no report rows for that query; it does not establish zero trade or zero arrivals.
+Mustard,20,0,20,0,0,0,0,No rows means the endpoint returned no report rows for that query; it does not establish zero trade or zero arrivals.
+Paddy (Basmati),20,2,18,0,2,2,2,No rows means the endpoint returned no report rows for that query; it does not establish zero trade or zero arrivals.
+Paddy (Common),20,4,16,0,29,29,15,No rows means the endpoint returned no report rows for that query; it does not establish zero trade or zero arrivals.
+Wheat,20,6,14,0,47,47,16,No rows means the endpoint returned no report rows for that query; it does not establish zero trade or zero arrivals.

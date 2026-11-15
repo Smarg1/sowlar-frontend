@@ -1,0 +1,45 @@
+FIELDSHIP SOURCE URLS
+URLs for source datasets and portals represented in or relevant to this package.
+
+SMAP L4 V8
+https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL4SMGP_008
+
+GPM IMERG V07
+https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V07
+
+Landsat Collection 2 Level 2
+https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2
+
+MODIS MOD13Q1.061
+https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD13Q1
+
+Sentinel-2 SR Harmonized
+https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED
+
+ERA5-Land Daily Aggregated
+https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR
+
+SoilGrids
+https://isric.org/explore/soilgrids
+
+SRTM
+https://developers.google.com/earth-engine/datasets/catalog/USGS_SRTMGL1_003
+
+GRACE-FO JPL Mascon
+https://podaac.jpl.nasa.gov/dataset/TELLUS_GRAC-GRFO_MASCON_CRI_GRID_RL06.3_V4
+
+CGWB groundwater-level monitoring
+https://cgwb.gov.in/en/ground-water-level-monitoring
+
+CWC Canal Network / NWDP
+https://nwdp.nwic.gov.in/dataset/canal
+
+AGMARKNET daily market price/arrival data
+https://agmarknet.gov.in/
+
+DES APY report portal
+https://data.desagri.gov.in/website/crops-apy-report-web
+
+DES Cost of Cultivation resources
+https://desagri.gov.in/document-report-category/cost-of-cultivation-production-estimates/
+

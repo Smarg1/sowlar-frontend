@@ -1,0 +1,18 @@
+﻿dataset,file,rows,valid_measurements_or_records,missing_or_unavailable,quality_note
+SMAP surface soil moisture,01_ENVIRONMENTAL_DATA/smap_soil_moisture.csv,568,566,2,Missing values are blank; never interpret missing as zero.
+SMAP root-zone soil moisture,01_ENVIRONMENTAL_DATA/smap_soil_moisture.csv,568,566,2,Missing values are blank; never interpret missing as zero.
+GPM daily rainfall,01_ENVIRONMENTAL_DATA/gpm_daily_rainfall.csv,74,74,0,Missing values are blank; never interpret missing as zero.
+ERA5-Land air temperature,01_ENVIRONMENTAL_DATA/era5_land_daily_weather.csv,67,67,0,Missing values are blank; never interpret missing as zero.
+ERA5-Land dewpoint,01_ENVIRONMENTAL_DATA/era5_land_daily_weather.csv,67,67,0,Missing values are blank; never interpret missing as zero.
+ERA5-Land estimated relative humidity,01_ENVIRONMENTAL_DATA/era5_land_daily_weather.csv,67,67,0,Missing values are blank; never interpret missing as zero.
+ERA5-Land 10 m wind speed,01_ENVIRONMENTAL_DATA/era5_land_daily_weather.csv,67,67,0,Missing values are blank; never interpret missing as zero.
+ERA5-Land solar radiation,01_ENVIRONMENTAL_DATA/era5_land_daily_weather.csv,67,67,0,Missing values are blank; never interpret missing as zero.
+Landsat land surface temperature,01_ENVIRONMENTAL_DATA/landsat_surface_temperature.csv,8,6,2,Missing values are blank; never interpret missing as zero.
+MODIS NDVI,01_ENVIRONMENTAL_DATA/modis_ndvi_evi.csv,3,3,0,Missing values are blank; never interpret missing as zero.
+MODIS EVI,01_ENVIRONMENTAL_DATA/modis_ndvi_evi.csv,3,3,0,Missing values are blank; never interpret missing as zero.
+Sentinel-2 BSI,01_ENVIRONMENTAL_DATA/sentinel2_bare_soil_index.csv,19,18,1,Missing values are blank; never interpret missing as zero.
+SoilGrids scaled profile,02_SOIL_AND_TERRAIN/soilgrids_profile_scaled.csv,48,48,0,Eight properties × six depth layers. Values are modelled and scale-adjusted.
+CGWB Jalandhar observations,03_WATER_RESOURCES/cgwb_jalandhar_quarterly_groundwater_observations.csv,376,376,0,"78 Jalandhar district stations, not farm-specific wells."
+AGMARKNET prices,04_MARKET_DATA/agmarknet_monthly_price_observations.csv,126,126,see query log,Monthly market-level summaries only; not daily trades or farm-gate prices.
+AGMARKNET arrivals,04_MARKET_DATA/agmarknet_monthly_arrival_observations.csv,126,126,see query log,"Monthly reported arrivals are supply inflow, not consumer demand."
+DES district APY,05_AGRICULTURAL_STATISTICS/des_jalandhar_area_production_yield.csv,104,70,some crop-year measures are blank,District statistics; missing report cells remain blank.

@@ -1,0 +1,24 @@
+{
+  "field_id": "FIELD_31p22192_75p39125",
+  "center": {
+    "latitude": 31.22192,
+    "longitude": 75.39125
+  },
+  "geometry": "circle buffer radius 150.0 m around supplied centre",
+  "start_date_inclusive": "2026-09-01",
+  "end_date_exclusive": "2026-11-14",
+  "created_utc": "2026-11-14T14:04:04Z",
+  "text_formats": [
+    "CSV",
+    "TXT"
+  ],
+  "important": [
+    "These are field-buffer statistics, not necessarily cadastral field-boundary statistics.",
+    "Replace the circle with an actual field polygon for production use.",
+    "Coarse datasets retain their native resolution; GPM/ERA5 use a 6 km support radius and SMAP a 5 km support radius.",
+    "Missing raster reductions are exported as -9999 (missing_value_code); convert this sentinel to null before analysis.",
+    "SoilGrids values are raw stored values; consult official per-property scale factors before interpretation.",
+    "SMAP L4 V8 has a documented geolocation issue/reprocessing period from 2026-05-14 to 2026-07-28.",
+    "GAEZ v5, GRACE-FO and India market/economic resources are documented as separate steps."
+  ]
+}
