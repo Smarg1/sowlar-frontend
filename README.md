@@ -83,10 +83,7 @@ has usable values.
 
 ### Backend analysis
 
-The pages combine the local evidence snapshot with results from the SOWLAR
-FastAPI service. The backend analysis endpoints also use heuristics; the
-frontend presents their results and limitations as returned and does not train
-or run a machine-learning model.
+The page fetched data and AI processed Sensory inputs from https://sowlar-backend.onrender.com/api/v1/ , whose code is hosted at https://github.com/Smarg1/sowlar-backend
 
 ## Hosted backend integration
 
